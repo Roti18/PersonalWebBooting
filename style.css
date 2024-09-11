@@ -34,21 +34,6 @@ body {
   color: #ffffff;
   font-family: Arial, sans-serif;
 }
-
-.header {
-  margin-top: -34rem;
-  margin-left: 5rem;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  padding: 1rem 9%;
-  filter: drop-shadow(0 0 10px black);
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  z-index: 100;
-}
 section {
   min-height: 100vh;
   padding: 10rem 12%;
