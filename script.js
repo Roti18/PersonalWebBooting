@@ -14,7 +14,7 @@ async function load() {
     <div class="id-card">
       <div class="content"> 
         <div class="profile-pic">
-        <a href="${teman.web}" targer="_blank"><img src="${teman.fotoselfie}" alt="${teman.nama}"></a>
+        <a href="${teman.web}" target="_blank"><img src="${teman.fotoselfie}" alt="${teman.nama}"></a>
         </div>
         <div class="info">
           <h2>${teman.nama}</h2>
