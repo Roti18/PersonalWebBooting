@@ -86,14 +86,12 @@ section {
 }
 
 .typing-text span::before {
-  content: "Roni";
+  content: "Moch. Zamroni Fahreza";
   color: var(--mainColor3);
   animation: words 10s infinite;
 }
-
 .typing-text span::after {
   content: "";
-  position: absolute;
   width: calc(100%);
   height: 100%;
   border-left: 3px solid black;
@@ -107,16 +105,6 @@ section {
   }
 }
 
-@keyframes words {
-  0%,
-  50% {
-    content: "Moch. Zamroni Fahreza";
-  }
-  51%,
-  100% {
-    content: "Roni";
-  }
-}
 .social-icons a {
   display: inline-flex;
   justify-content: center;
