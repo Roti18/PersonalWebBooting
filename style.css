@@ -72,7 +72,7 @@ section {
   transition: 0.4s ease-in-out;
 }
 .home-img img:hover {
-  box-shadow: 0 0 35px var(--mainColor), 0 0 50px var(--mainColor2);
+    box-shadow: 0 0 20px var(--mainColor3), 0 0 35px var(--mainColor4);
 }
 
 .typing-text {
